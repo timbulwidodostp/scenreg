@@ -3,6 +3,8 @@ Estimating effects in models for binary variables given a scenario concerning un
 
 Scenarios for models with binary dependent variables Use scenreg With STATA 18
 
+https://www.youtube.com/watch?v=fr3msmR2pcU
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
